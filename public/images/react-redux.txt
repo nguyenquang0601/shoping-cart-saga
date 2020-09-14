@@ -1,0 +1,35 @@
+1. Features:
+- JSX
+- Components
+- One-way Data Binding
+- Virtual DOM
+- Simplicity
+- Performance
+ 
+2. JSX
+3. Components
+4. Constructor
+5. State and Props
+6. life-Cycle
+7. Conditional Rendering
+8. Hooks: 
+- When to use a Hooks
+- Rules of Hooks
+- useState()
+- useEffect()
+- useContext()
+- useReducer()
+- useCallback()
+- useMemo()
+- useRef()
+9. Forms
+10. Context
+11. HOC
+12. Router
+13. API
+14. Flux Concept (Redux đc tạo ra từ cốt lỗi thằng ni)
+15. redux:
+- Architecture
+- Store
+- Action
+- Reducer
